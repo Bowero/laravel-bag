@@ -1,5 +1,7 @@
 # Laravel-BAG
 
+[![Style Status](https://styleci.io/repos/132171375/shield?branch=master&style=flat)](https://styleci.io/repos/132171375)
+
 Laravel-BAG incorporates an easy to use package for retrieving address information from [Basisregistraties Adressen en Gebouwen](https://bag.basisregistraties.overheid.nl/) (BAG) into your [Laravel](https://laravel.com/) or [Lumen](https://lumen.laravel.com/) project.
 
 ## Requirements
