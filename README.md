@@ -1,6 +1,10 @@
 # Laravel-BAG
 
 [![Build Status](https://travis-ci.org/app-packers/laravel-bag.svg?branch=master)](https://travis-ci.org/app-packers/laravel-bag)
+[![Latest Stable Version](https://poser.pugx.org/app-packers/laravel-bag/v/stable)](https://packagist.org/packages/app-packers/laravel-bag)
+[![Total Downloads](https://poser.pugx.org/app-packers/laravel-bag/downloads)](https://packagist.org/packages/app-packers/laravel-bag)
+[![Latest Unstable Version](https://poser.pugx.org/app-packers/laravel-bag/v/unstable)](https://packagist.org/packages/app-packers/laravel-bag)
+[![License](https://poser.pugx.org/app-packers/laravel-bag/license)](https://packagist.org/packages/app-packers/laravel-bag)
 [![Style Status](https://styleci.io/repos/132171375/shield?branch=master&style=flat)](https://styleci.io/repos/132171375)
 
 Laravel-BAG incorporates an easy to use package for retrieving address information from [Basisregistraties Adressen en Gebouwen](https://bag.basisregistraties.overheid.nl/) (BAG) into your [Laravel](https://laravel.com/) or [Lumen](https://lumen.laravel.com/) project.
