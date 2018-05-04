@@ -14,6 +14,7 @@ class BagServiceProvider extends ServiceProvider
      * Bootstrap the application services.
      *
      * @codeCoverageIgnore
+     *
      * @return void
      */
     public function boot()
