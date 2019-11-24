@@ -26,7 +26,7 @@
         "php": ">=7.1.0",
         "app-packers/php-bag": "^1.0",
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/support": "^5.0"
+        "illuminate/support": "^5.0|^6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.1",
