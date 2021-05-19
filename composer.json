@@ -1,5 +1,5 @@
 {
-    "name": "app-packers/laravel-bag",
+    "name": "bowero/laravel-bag",
     "description": "Laravel package for BAG (Basisregistraties Adressen en Gebouwen) from the Kadaster.",
     "type": "library",
     "keywords": [
